@@ -1,0 +1,22 @@
+{
+  "name": "apiweather",
+  "version": "1.0.0",
+  "description": "* This is a small project that send GET requests to a weather API to receive information about the weather.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabee93/APIweather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rabee93/APIweather/issues"
+  },
+  "homepage": "https://github.com/Rabee93/APIweather#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
